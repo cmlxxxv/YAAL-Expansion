@@ -1,0 +1,11 @@
+**/History
+**/__Previews
+
+/CompTables
+*.laccdb
+
+.gitignore~
+
+/.release-vault
+
+**/Project Outputs*
